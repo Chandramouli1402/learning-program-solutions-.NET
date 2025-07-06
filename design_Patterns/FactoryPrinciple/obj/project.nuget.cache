@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "t+G44dTc83w=",
+  "dgSpecHash": "TUGaz4RVhC0=",
   "success": true,
-  "projectFilePath": "/Users/robinsondouglas/Desktop/Week1/design_Patterns/FactoryPrinciple/FactoryPrinciple.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\SEC\\Desktop\\Digital_Nurture_4.0_DotNetFSE\\design_Patterns\\FactoryPrinciple\\FactoryPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
